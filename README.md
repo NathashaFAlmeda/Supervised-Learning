@@ -1,2 +1,2 @@
-# Supervised-Learning
-* Classification Problem - Breast Cancer
+# Classification
+* Breast Cancer
